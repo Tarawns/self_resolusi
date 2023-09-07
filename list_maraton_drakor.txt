@@ -1,8 +1,10 @@
 JUDUL DRAKOR YANG MAU DI TONTON
 - VAGABOND
    *ada 16 eps
+      ^ minggu pertama
 - K2
    *ada 16 eps
+      ^minggu kedua
 - MOVING
    *on going
 - The Bride of Habaek
